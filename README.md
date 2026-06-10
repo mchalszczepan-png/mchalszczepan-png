@@ -1,5 +1,14 @@
-## Hi there 👋
+Hi everyone! Im Michal, a developer and engineering student based in Ireland. Currently learning backend development with [boot.dev](boot.dev) and Frontend development with [Scrimba](https://scrimba.com/?via=u0132ng) (<-- Referral link, just so you know)
 
+Feel free to look at all my public repos, maybe you'll find something 👀️
+
+Take a look at my;
+
+[Website](www.michalszczepan.me)
+[Linkedin](https://www.linkedin.com/in/michal-szczepan-728189370/)
+
+
+Have a Great day!
 <!--
 **mchalszczepan-png/mchalszczepan-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
